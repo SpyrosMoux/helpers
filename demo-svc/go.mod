@@ -1,4 +1,4 @@
-module github.com/spyrosmoux/helpers/demo-svc
+module github.com/SpyrosMoux/helpers/demo-svc
 
 go 1.25.3
 

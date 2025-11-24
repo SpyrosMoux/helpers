@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"time"
 
+	"github.com/SpyrosMoux/helpers/demo-svc/handlers"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
-	"github.com/spyrosmoux/helpers/demo-svc/handlers"
 	"go.uber.org/zap"
 )
 

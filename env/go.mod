@@ -1,4 +1,4 @@
-module github.com/spyrosmoux/helpers/env
+module github.com/SpyrosMoux/helpers/env
 
 go 1.22.6
 
